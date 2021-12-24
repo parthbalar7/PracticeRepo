@@ -2,3 +2,4 @@ This is the feature file.
 this is modified content(main branch)
 this line is further changed by dummy3
 feature added (dummy1)
+Slow and steady always wins!
