@@ -1,9 +1,0 @@
-diff --git a/feature.txt b/feature.txt
-index a6c25cf..c8e0843 100644
---- a/feature.txt
-+++ b/feature.txt
-@@ -2,3 +2,4 @@ This is the feature file.
- this is modified content(main branch)
- this line is further changed by dummy3
- feature added (dummy1)
-+Slow and steady always wins!
